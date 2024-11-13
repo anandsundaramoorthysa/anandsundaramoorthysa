@@ -27,12 +27,15 @@ jobs:
             exit 1
           fi
 
-          # Display the latest post title and URL
+          # Display the latest post title and URL for debugging
           echo "Latest Post Title: $LATEST_POST_TITLE"
           echo "Latest Post URL: $LATEST_POST_URL"
 
           # Update the README with the latest post (you can format it as needed)
           sed -i "s|<!-- LATEST_POST -->|[${LATEST_POST_TITLE}](${LATEST_POST_URL})|" README.md
+
+          # Verify that the README.md was updated correctly
+          cat README.md
 
       - name: Commit and push changes
         run: |
@@ -41,4 +44,3 @@ jobs:
           git add README.md
           git commit -m "Update latest Medium post"
           git push
-
