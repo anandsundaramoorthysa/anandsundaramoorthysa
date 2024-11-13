@@ -42,6 +42,7 @@ For articles, check out my blogs on [Medium](https://medium.com/@anandsundaramoo
 ![](https://github-readme-stats.vercel.app/api?username=a1n13a1n13d4&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=a1n13a1n13d4&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=a1n13a1n13d4&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a1n13a1n13d4&show_icons=true&count_private=true&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=a1n13a1n13d4&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
