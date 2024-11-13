@@ -15,7 +15,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=a1n13a1n13d4&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=a1n13a1n13d4&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
