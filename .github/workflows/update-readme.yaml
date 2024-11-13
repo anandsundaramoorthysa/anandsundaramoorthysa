@@ -20,20 +20,27 @@ jobs:
           # Fetch the latest posts using the Medium RSS feed for the user
           RSS_FEED="https://medium.com/feed/@anandsundaramoorthysa"
 
-          # Parse the latest post URL and title from the RSS feed using xmllint
-          LATEST_POST_URL=$(curl -s $RSS_FEED | xmllint --xpath "string(//item/link)" -)
-          LATEST_POST_TITLE=$(curl -s $RSS_FEED | xmllint --xpath "string(//item/title)" -)
+          # Debugging: Output raw RSS feed content
+          echo "Fetching RSS feed..."
+          RSS_CONTENT=$(curl -s $RSS_FEED)
+          echo "Raw RSS Feed: $RSS_CONTENT"
 
+          # Parse the latest post URL and title from the RSS feed using xmllint
+          LATEST_POST_URL=$(echo "$RSS_CONTENT" | xmllint --xpath "string(//item/link)" -)
+          LATEST_POST_TITLE=$(echo "$RSS_CONTENT" | xmllint --xpath "string(//item/title)" -)
+
+          # Debugging: Output extracted URL and title
+          echo "Latest Post Title: $LATEST_POST_TITLE"
+          echo "Latest Post URL: $LATEST_POST_URL"
+
+          # Error handling if no title or URL found
           if [ -z "$LATEST_POST_TITLE" ] || [ -z "$LATEST_POST_URL" ]; then
             echo "Error: Failed to fetch the latest Medium post."
             exit 1
           fi
 
-          # Display the latest post title and URL for debugging
-          echo "Latest Post Title: $LATEST_POST_TITLE"
-          echo "Latest Post URL: $LATEST_POST_URL"
-
           # Update the README with the latest post (you can format it as needed)
+          echo "Updating README.md with the latest post..."
           sed -i "s|<!-- LATEST_POST -->|- [${LATEST_POST_TITLE}](${LATEST_POST_URL})|" README.md
 
           # Verify that the README.md was updated correctly
