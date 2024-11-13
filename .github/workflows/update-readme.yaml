@@ -15,12 +15,25 @@ jobs:
 
       - name: Fetch latest Medium posts
         run: |
+          set -e  # Stop the script on any error
+
           # Fetch the latest posts using the Medium RSS feed for the user
           RSS_FEED="https://medium.com/feed/@anandsundaramoorthysa"
-          LATEST_POST=$(curl -s $RSS_FEED | grep -oP '(?<=<title>).*?(?=</title>)' | head -n 1)
-          echo "Latest Post: $LATEST_POST"
+          LATEST_POST_URL=$(curl -s $RSS_FEED | grep -oP '(?<=<link>).*?(?=</link>)' | head -n 1)
+          LATEST_POST_TITLE=$(curl -s $RSS_FEED | grep -oP '(?<=<title>).*?(?=</title>)' | head -n 1)
+
+          if [ -z "$LATEST_POST_TITLE" ] || [ -z "$LATEST_POST_URL" ]; then
+            echo "Error: Failed to fetch the latest Medium post."
+            exit 1
+          fi
+
+          # Display the latest post title and URL
+          echo "Latest Post Title: $LATEST_POST_TITLE"
+          echo "Latest Post URL: $LATEST_POST_URL"
+
           # Update the README with the latest post (you can format it as needed)
-          sed -i "s|<!-- LATEST_POST -->|$LATEST_POST|" README.md
+          sed -i "s|<!-- LATEST_POST -->|[${LATEST_POST_TITLE}](${LATEST_POST_URL})|" README.md
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
