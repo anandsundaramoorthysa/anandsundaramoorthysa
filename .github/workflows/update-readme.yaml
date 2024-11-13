@@ -22,20 +22,19 @@ jobs:
           LATEST_POST_URL=$(curl -s $RSS_FEED | grep -oP '(?<=<link>).*?(?=</link>)' | head -n 1)
           LATEST_POST_TITLE=$(curl -s $RSS_FEED | grep -oP '(?<=<title>).*?(?=</title>)' | head -n 1)
 
-          # Debugging output
-          echo "Latest Post Title: $LATEST_POST_TITLE"
-          echo "Latest Post URL: $LATEST_POST_URL"
-
           if [ -z "$LATEST_POST_TITLE" ] || [ -z "$LATEST_POST_URL" ]; then
             echo "Error: Failed to fetch the latest Medium post."
             exit 1
           fi
 
-          # Update the README with the latest post (you can format it as needed)
-          echo "Updating README with the latest post..."
-          sed -i 's/<!-- LATEST_POST -->/['"$LATEST_POST_TITLE"']('"$LATEST_POST_URL"')/' README.md
+          # Display the latest post title and URL for debugging
+          echo "Latest Post Title: $LATEST_POST_TITLE"
+          echo "Latest Post URL: $LATEST_POST_URL"
 
-          # Debugging: Verify the README update
+          # Update the README with the latest post (you can format it as needed)
+          sed -i "s|<!-- LATEST_POST -->|- [${LATEST_POST_TITLE}](${LATEST_POST_URL})|" README.md
+
+          # Verify that the README.md was updated correctly
           cat README.md
 
       - name: Commit and push changes
