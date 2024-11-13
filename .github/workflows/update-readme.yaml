@@ -1,0 +1,30 @@
+name: Update Latest Medium Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour (adjust timing as needed)
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch latest Medium posts
+        run: |
+          # Fetch the latest posts using the Medium RSS feed for the user
+          RSS_FEED="https://medium.com/feed/@anandsundaramoorthysa"
+          LATEST_POST=$(curl -s $RSS_FEED | grep -oP '(?<=<title>).*?(?=</title>)' | head -n 1)
+          echo "Latest Post: $LATEST_POST"
+          # Update the README with the latest post (you can format it as needed)
+          sed -i "s|<!-- LATEST_POST -->|$LATEST_POST|" README.md
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update latest Medium post"
+          git push
