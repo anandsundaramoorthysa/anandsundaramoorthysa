@@ -19,8 +19,10 @@ jobs:
 
           # Fetch the latest posts using the Medium RSS feed for the user
           RSS_FEED="https://medium.com/feed/@anandsundaramoorthysa"
-          LATEST_POST_URL=$(curl -s $RSS_FEED | grep -oP '(?<=<link>).*?(?=</link>)' | head -n 1)
-          LATEST_POST_TITLE=$(curl -s $RSS_FEED | grep -oP '(?<=<title>).*?(?=</title>)' | head -n 1)
+
+          # Parse the latest post URL and title from the RSS feed using xmllint
+          LATEST_POST_URL=$(curl -s $RSS_FEED | xmllint --xpath "string(//item/link)" -)
+          LATEST_POST_TITLE=$(curl -s $RSS_FEED | xmllint --xpath "string(//item/title)" -)
 
           if [ -z "$LATEST_POST_TITLE" ] || [ -z "$LATEST_POST_URL" ]; then
             echo "Error: Failed to fetch the latest Medium post."
@@ -35,7 +37,7 @@ jobs:
           sed -i "s|<!-- LATEST_POST -->|- [${LATEST_POST_TITLE}](${LATEST_POST_URL})|" README.md
 
           # Verify that the README.md was updated correctly
-          cat README.md
+          cat README.md  # Display the README to verify the change
 
       - name: Commit and push changes
         run: |
