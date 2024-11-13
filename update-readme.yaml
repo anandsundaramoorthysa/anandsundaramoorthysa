@@ -1,0 +1,54 @@
+name: Update README with Latest Medium Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour to fetch the latest posts
+  workflow_dispatch:  # Allows manual trigger if needed
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Fetch the latest blog posts from Medium RSS feed
+      - name: Fetch Latest Medium Blog Posts
+        id: fetch_posts
+        run: |
+          curl -s "https://medium.com/feed/@anandsundaramoorthysa" | \
+          xmllint --xpath "//item/title/text()" - 2>/dev/null > posts.txt
+          
+      # Prepare the list of posts
+      - name: Prepare the list of posts
+        id: prepare_list
+        run: |
+          POSTS=$(cat posts.txt)
+          # Format the posts as Markdown
+          POSTS_MD="## 📚 Latest Blog Posts\n"
+          for post in $(echo "$POSTS" | head -n 5); do
+            POSTS_MD+="* [${post}](https://medium.com/@anandsundaramoorthysa/${post// /-})\n"
+          done
+          echo "$POSTS_MD" > updated_posts.md
+          
+      # Update README file with the latest posts
+      - name: Update README with latest posts
+        run: |
+          cat updated_posts.md >> README.md
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated README with latest Medium posts"
+          git push
+          
+      # Add visit counter using GPRM
+      - name: Add Visit Counter with GPRM
+        run: |
+          curl -s "https://gprm.itsvg.in/api?id=a1n13a1n13d4&icon=2&color=1" -o visit_count.svg
+          # Add the visit count image to the README
+          sed -i "/<!-- Proudly created with GPRM/ a ![Visit Count](visit_count.svg)" README.md
+          git add README.md
+          git commit -m "Added visit counter to README"
+          git push
