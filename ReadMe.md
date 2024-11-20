@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 LCM'25<br>💻 Tech Enthusiast<br>🌐 Front-End Developer<br>✍️ Blog Writer<br>☕ Java Full Stack Learner
+🎓 LCM'25<br>💻 Tech & Finance 🧾 Enthusiast<br>🌐 Front-End Developer<br>✍️ Blog Writer<br>☕ Java Full Stack Learner
 
 ## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anandsundaramoorthysa) 
