@@ -33,7 +33,7 @@ For articles, check out my blogs on [Medium](https://medium.com/@anandsundaramoo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 #### **Deployment/Hosting**:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B6A.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 #### **Others**:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
