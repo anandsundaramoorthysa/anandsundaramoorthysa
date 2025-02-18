@@ -71,18 +71,19 @@
 
   <h2>📊 GitHub Statistics</h2>
   
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=anandsundaramoorthysa&theme=dark&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
-  </p>
+ <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=anandsundaramoorthysa&theme=black&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandsundaramoorthysa&theme=dark&hide_border=true" alt="Contribution Graph" />
-  </p>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandsundaramoorthysa&theme=dark&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Contribution Graph" />
+</p>
 
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandsundaramoorthysa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandsundaramoorthysa&layout=compact&langs_count=8&theme=dark"/>
-  </div>
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandsundaramoorthysa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&text_color=FFFFFF&icon_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandsundaramoorthysa&layout=compact&langs_count=8&theme=dark&bg_color=000000&text_color=FFFFFF"/>
+</div>
+
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandsundaramoorthysa&theme=dark" alt="GitHub Streak"/>
