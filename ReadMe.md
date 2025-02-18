@@ -1,7 +1,6 @@
-<h1 align="center" style="color:#1E90FF;">
+<h1 align="center">
   Hi, I'm Anand! 👋
 </h1>
-
 <h3 align="center">
   "Even you hurt, I simply smile."
 </h3>
