@@ -10,8 +10,7 @@
   <p>🌍 Passionate about building products that solve real-world problems</p>
 
   <h2>🛠️ Tech Stack</h2>
-  
-  <!-- Front-End Development Widget -->
+
   <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
     <h3>Front-End Development:</h3>
     <p>
@@ -23,7 +22,6 @@
     </p>
   </div>
 
-  <!-- App Development Widget -->
   <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
     <h3>App Development:</h3>
     <p>
@@ -32,7 +30,6 @@
     </p>
   </div>
 
-  <!-- Machine Learning Widget -->
   <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
     <h3>Machine Learning:</h3>
     <p>
@@ -40,7 +37,6 @@
     </p>
   </div>
 
-  <!-- Database Widget -->
   <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
     <h3>Database:</h3>
     <p>
@@ -49,7 +45,6 @@
     </p>
   </div>
 
-  <!-- Programming Languages Widget -->
   <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
     <h3>Programming Languages:</h3>
     <p>
@@ -58,7 +53,6 @@
     </p>
   </div>
 
-  <!-- Design Tools Widget -->
   <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
     <h3>Design Tools:</h3>
     <p>
@@ -69,7 +63,6 @@
     </p>
   </div>
 
-  <!-- Version Control Widget -->
   <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
     <h3>Version Control:</h3>
     <p>
@@ -78,7 +71,6 @@
     </p>
   </div>
 
-  <!-- Deployment/Hosting Widget -->
   <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
     <h3>Deployment/Hosting:</h3>
     <p>
@@ -87,7 +79,6 @@
     </p>
   </div>
 
-  <!-- Other Tools Widget -->
   <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
     <h3>Other Tools:</h3>
     <p>
@@ -121,11 +112,11 @@
     <a href="https://www.linkedin.com/in/anandsundaramoorthysa/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/anandsundaramoor">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
     <a href="https://www.instagram.com/ehspodcast_/">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:anandsundaramoorthysa@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
 </div>
