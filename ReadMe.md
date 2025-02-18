@@ -3,6 +3,7 @@
   <p style="font-size: 36px;">Hi, I'm Anand! 👋</p>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Tech+%26+Finance+Enthusiast" alt="Typing SVG" />
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    
 <h1>🚀 About Me </h1>
 
 - 💻 Front-End Developer | Technical Writer  
@@ -52,8 +53,6 @@
 
 ## 📖 Read My Blogs
 For articles, check out my blogs on [Medium](https://medium.com/@anandsundaramoorthysa).
-
----
 
 ### 🤝 Connect With Me:
 <p align="center">
