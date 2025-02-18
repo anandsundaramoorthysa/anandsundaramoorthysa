@@ -94,16 +94,16 @@
   <h2>🤝 Connect With Me:</h2>
   <p align="center">
     <a href="mailto:sanand03072005@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://www.linkedin.com/in/anandsundaramoorthysa/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://www.instagram.com/anandsundaramoorthysa/">
-      <img src="https://img.shields.io/badge/Instagram-DC2A46?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="https://medium.com/@anandsundaramoorthysa">
-      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+      <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
     </a>
-  </p>
+</p>
 </div>
