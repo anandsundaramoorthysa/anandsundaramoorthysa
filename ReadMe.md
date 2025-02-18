@@ -1,10 +1,7 @@
-<h1 align="center">
+<p align="center">
   <span style="font-size: 36px;">Hi, I'm Anand</span>
-</h1>
-
-<h2 align="center">
   <span style="font-size: 24px;">Even you hurt, I simply smile</span>
-</h2>
+</p>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Tech+%26+Finance+Enthusiast" alt="Typing SVG" />
