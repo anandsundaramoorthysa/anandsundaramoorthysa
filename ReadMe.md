@@ -103,9 +103,9 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandsundaramoorthysa&theme=midnight-purple" alt="GitHub Streak"/>
   </p>
-
-  <h2>📖 Read My Blogs</h2>
-  <p>For articles, check out my blogs on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank">Medium</a>.</p>
+  
+  <h2>📚 Dive into My Blogs</h2>
+  <p>Explore my articles and stay updated with the latest trends in tech, development, and AI on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank">Medium</a>.</p>
 
   <h2>🤝 Connect With Me:</h2>
   <p align="center">
@@ -117,6 +117,9 @@
     </a>
     <a href="mailto:anandsundaramoorthysa@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://medium.com/@anandsundaramoorthysa">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
   </p>
 </div>
