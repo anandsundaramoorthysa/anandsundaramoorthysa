@@ -1,16 +1,16 @@
-<h1 align="center" style="background-color:#0A192F; color:#64FFDA; padding: 10px; border-radius: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anand!+%F0%9F%91%8B;Frontend+Wizard+%F0%9F%8C%A1;Tech+%26+Finance+Explorer+%F0%9F%8C%8F;Writer+%E2%9C%8D%EF%B8%8F;Passionate+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anand!+%F0%9F%91%8B;Front-End+Developer+💻;Tech+%26+Finance+Enthusiast+📊;Writer+✍️;Passionate+Learner+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <blockquote>
-    "Even you hurt, I simply smile"
+    "Even you hurt, I simply smile."
   </blockquote>
 </p>
 
 <p align="center">
   <a href="https://github.com/anandsundaramoorthysa">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=anandsundaramoorthysa&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Stats" style="max-width: 100%;">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=anandsundaramoorthysa&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Stats">
   </a>
 </p>
 
