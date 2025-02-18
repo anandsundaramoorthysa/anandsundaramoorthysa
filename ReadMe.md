@@ -1,4 +1,5 @@
 <div align="center">
+  <h1/>
   <p style="font-size: 36px;">Hi, I'm Anand! 👋</p>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Tech+%26+Finance+Enthusiast" alt="Typing SVG" />
   
