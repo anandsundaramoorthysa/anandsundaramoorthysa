@@ -86,7 +86,9 @@
     </p>
   </div>
 
+  <div class="github-stats dark-theme">
   <h2>📊 GitHub Statistics</h2>
+  
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=anandsundaramoorthysa&theme=darkhub&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
   </p>
@@ -103,7 +105,8 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandsundaramoorthysa&theme=midnight-purple" alt="GitHub Streak"/>
   </p>
-  
+</div>
+
   <h2>📚 Dive into My Blogs</h2>
   <p>Explore my articles and stay updated with the latest trends in tech, development, and AI on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank">Medium</a>.</p>
 
