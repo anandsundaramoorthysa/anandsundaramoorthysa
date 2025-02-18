@@ -1,18 +1,18 @@
-<div align="center">
+<div align="center" style="background-color: #121212; color: white; padding: 20px; border-radius: 10px;">
   <p style="font-size: 36px; font-weight: bold;">Hi, I'm Anand! 👋</p>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Tech+%26+Finance+Enthusiast" alt="Typing SVG" />
   <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-  <h1>🚀 About Me</h1>
+  <h1 style="color: white;">🚀 About Me</h1>
   <p>💻 Front-End Developer | Technical Writer</p>
   <p>🔍 Exploring AI, Web Dev, and Open Source</p>
   <p>📖 Writing tech blogs on <strong>Medium</strong></p>
   <p>🌍 Passionate about building products that solve real-world problems</p>
 
-  <h2>🛠️ Tech Stack</h2>
+  <h2 style="color: white;">🛠️ Tech Stack</h2>
 
-  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
-    <h3>Front-End Development:</h3>
+  <div style="border: 2px solid #333; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #1d1d1d;">
+    <h3 style="color: white;">Front-End Development:</h3>
     <p>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -22,39 +22,39 @@
     </p>
   </div>
 
-  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
-    <h3>App Development:</h3>
+  <div style="border: 2px solid #333; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #1d1d1d;">
+    <h3 style="color: white;">App Development:</h3>
     <p>
       <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
       <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"/>
     </p>
   </div>
 
-  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
-    <h3>Machine Learning:</h3>
+  <div style="border: 2px solid #333; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #1d1d1d;">
+    <h3 style="color: white;">Machine Learning:</h3>
     <p>
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
     </p>
   </div>
 
-  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
-    <h3>Database:</h3>
+  <div style="border: 2px solid #333; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #1d1d1d;">
+    <h3 style="color: white;">Database:</h3>
     <p>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
     </p>
   </div>
 
-  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
-    <h3>Programming Languages:</h3>
+  <div style="border: 2px solid #333; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #1d1d1d;">
+    <h3 style="color: white;">Programming Languages:</h3>
     <p>
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
     </p>
   </div>
 
-  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
-    <h3>Design Tools:</h3>
+  <div style="border: 2px solid #333; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #1d1d1d;">
+    <h3 style="color: white;">Design Tools:</h3>
     <p>
       <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
       <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
@@ -63,31 +63,31 @@
     </p>
   </div>
 
-  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
-    <h3>Version Control:</h3>
+  <div style="border: 2px solid #333; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #1d1d1d;">
+    <h3 style="color: white;">Version Control:</h3>
     <p>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </p>
   </div>
 
-  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
-    <h3>Deployment/Hosting:</h3>
+  <div style="border: 2px solid #333; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #1d1d1d;">
+    <h3 style="color: white;">Deployment/Hosting:</h3>
     <p>
       <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
       <img src="https://img.shields.io/badge/Streamlit-%23FF4B6A.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
     </p>
   </div>
 
-  <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #f9f9f9;">
-    <h3>Other Tools:</h3>
+  <div style="border: 2px solid #333; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #1d1d1d;">
+    <h3 style="color: white;">Other Tools:</h3>
     <p>
       <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
     </p>
   </div>
 
   <div class="github-stats dark-theme">
-  <h2>📊 GitHub Statistics</h2>
+  <h2 style="color: white;">📊 GitHub Statistics</h2>
   
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=anandsundaramoorthysa&theme=darkhub&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
@@ -107,22 +107,9 @@
   </p>
 </div>
 
-  <h2>📚 Dive into My Blogs</h2>
-  <p>Explore my articles and stay updated with the latest trends in tech, development, and AI on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank">Medium</a>.</p>
+  <h2 style="color: white;">📚 Dive into My Blogs</h2>
+  <p>Explore my articles and stay updated with the latest trends in tech, development, and AI on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank" style="color: #1E90FF;">Medium</a>.</p>
 
-  <h2>🤝 Connect With Me:</h2>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/anandsundaramoorthysa/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.instagram.com/ehspodcast_/">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="mailto:anandsundaramoorthysa@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://medium.com/@anandsundaramoorthysa">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
-  </p>
+  <h2 style="color: white;">📬 Get in Touch</h2>
+  <p>Feel free to connect with me on <a href="https://www.linkedin.com/in/anandsundaramoorthysa/" target="_blank" style="color: #1E90FF;">LinkedIn</a> or <a href="https://twitter.com/anandsundaram99" target="_blank" style="color: #1E90FF;">Twitter</a>.</p>
 </div>
