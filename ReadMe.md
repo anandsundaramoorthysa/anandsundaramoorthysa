@@ -11,62 +11,63 @@
 
   <h2>🛠️ Tech Stack</h2>
 
-  <h3>Front-End Development:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/html5-%23FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/css3-%23FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/javascript-%23FFFFFF.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/jquery-%23FFFFFF.svg?style=for-the-badge&logo=jquery&logoColor=black" alt="jQuery"/>
-    <img src="https://img.shields.io/badge/bootstrap-%23FFFFFF.svg?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap"/>
-  </p>
+ <h3>Front-End Development:</h3>
+<p>
+  <img src="https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/jquery-%23000000.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
-  <h3>App Development:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Flutter-%23000000.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/firebase-%23000000.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  </p>
+<h3>App Development:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-%23000000.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/firebase-%23000000.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+</p>
 
-  <h3>Machine Learning:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/TensorFlow-%23FFFFFF.svg?style=for-the-badge&logo=TensorFlow&logoColor=black" alt="TensorFlow"/>
-  </p>
+<h3>Machine Learning:</h3>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-%23000000.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+</p>
 
-  <h3>Database:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/mysql-%23FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/MariaDB-%23FFFFFF.svg?style=for-the-badge&logo=mariadb&logoColor=black" alt="MariaDB"/>
-  </p>
+<h3>Database:</h3>
+<p>
+  <img src="https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-%23000000.svg?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+</p>
 
-  <h3>Programming Languages:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/java-%23FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java"/>
-    <img src="https://img.shields.io/badge/python-%23FFFFFF.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
-  </p>
+<h3>Programming Languages:</h3>
+<p>
+  <img src="https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
-  <h3>Design Tools:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FFFFFF.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" alt="Adobe Illustrator"/>
-    <img src="https://img.shields.io/badge/adobe%20photoshop-%23FFFFFF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black" alt="Adobe Photoshop"/>
-    <img src="https://img.shields.io/badge/Canva-%23FFFFFF.svg?style=for-the-badge&logo=Canva&logoColor=black" alt="Canva"/>
-    <img src="https://img.shields.io/badge/figma-%23FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=black" alt="Figma"/>
-  </p>
+<h3>Design Tools:</h3>
+<p>
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23000000.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%23000000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
+  <img src="https://img.shields.io/badge/Canva-%23000000.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
-  <h3>Version Control:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/git-%23FFFFFF.svg?style=for-the-badge&logo=git&logoColor=black" alt="Git"/>
-    <img src="https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-  </p>
+<h3>Version Control:</h3>
+<p>
+  <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-  <h3>Deployment/Hosting:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    <img src="https://img.shields.io/badge/Streamlit-%23FFFFFF.svg?style=for-the-badge&logo=Streamlit&logoColor=black" alt="Streamlit"/>
-  </p>
+<h3>Deployment/Hosting:</h3>
+<p>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Streamlit-%23000000.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+</p>
 
-  <h3>Other Tools:</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=black" alt="Notion"/>
-  </p>
+<h3>Other Tools:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+</p>
+
 
   <h2>📊 GitHub Statistics</h2>
   
