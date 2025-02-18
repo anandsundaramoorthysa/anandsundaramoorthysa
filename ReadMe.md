@@ -1,13 +1,13 @@
 
+
 <div align="center">
 <h1/>
   <p style="font-size: 36px;">Hi, I'm Anand! 👋</p>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Tech+%26+Finance+Enthusiast" alt="Typing SVG" />
-</div>
-
+  
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🚀 About Me
+<h1>🚀 About Me
 
 - 💻 Front-End Developer | Technical Writer  
 - 🔍 Exploring AI, Web Dev, and Open Source  
@@ -74,3 +74,4 @@ For articles, check out my blogs on [Medium](https://medium.com/@anandsundaramoo
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+</div>
