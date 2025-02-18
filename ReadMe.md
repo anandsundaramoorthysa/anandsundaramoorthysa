@@ -11,82 +11,63 @@
 
   <h2>🛠️ Tech Stack</h2>
 
-  <div style="border: 2px solid #fff; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #333;">
-    <h3>Front-End Development:</h3>
-    <p>
-      <img src="https://img.shields.io/badge/html5-%23FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/css3-%23FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/javascript-%23FFFFFF.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/jquery-%23FFFFFF.svg?style=for-the-badge&logo=jquery&logoColor=black" alt="jQuery"/>
-      <img src="https://img.shields.io/badge/bootstrap-%23FFFFFF.svg?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap"/>
-    </p>
-  </div>
+  <h3>Front-End Development:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/html5-%23FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/css3-%23FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/javascript-%23FFFFFF.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/jquery-%23FFFFFF.svg?style=for-the-badge&logo=jquery&logoColor=black" alt="jQuery"/>
+    <img src="https://img.shields.io/badge/bootstrap-%23FFFFFF.svg?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap"/>
+  </p>
 
-  <div style="border: 2px solid #fff; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #333;">
-    <h3>App Development:</h3>
-    <p>
-      <img src="https://img.shields.io/badge/Flutter-%23000000.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/firebase-%23000000.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-    </p>
-  </div>
+  <h3>App Development:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-%23000000.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/firebase-%23000000.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  </p>
 
-  <div style="border: 2px solid #fff; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #333;">
-    <h3>Machine Learning:</h3>
-    <p>
-      <img src="https://img.shields.io/badge/TensorFlow-%23FFFFFF.svg?style=for-the-badge&logo=TensorFlow&logoColor=black" alt="TensorFlow"/>
-    </p>
-  </div>
+  <h3>Machine Learning:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FFFFFF.svg?style=for-the-badge&logo=TensorFlow&logoColor=black" alt="TensorFlow"/>
+  </p>
 
-  <div style="border: 2px solid #fff; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #333;">
-    <h3>Database:</h3>
-    <p>
-      <img src="https://img.shields.io/badge/mysql-%23FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/MariaDB-%23FFFFFF.svg?style=for-the-badge&logo=mariadb&logoColor=black" alt="MariaDB"/>
-    </p>
-  </div>
+  <h3>Database:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/mysql-%23FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MariaDB-%23FFFFFF.svg?style=for-the-badge&logo=mariadb&logoColor=black" alt="MariaDB"/>
+  </p>
 
-  <div style="border: 2px solid #fff; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #333;">
-    <h3>Programming Languages:</h3>
-    <p>
-      <img src="https://img.shields.io/badge/java-%23FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java"/>
-      <img src="https://img.shields.io/badge/python-%23FFFFFF.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
-    </p>
-  </div>
+  <h3>Programming Languages:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/java-%23FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java"/>
+    <img src="https://img.shields.io/badge/python-%23FFFFFF.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
+  </p>
 
-  <div style="border: 2px solid #fff; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #333;">
-    <h3>Design Tools:</h3>
-    <p>
-      <img src="https://img.shields.io/badge/adobe%20illustrator-%23FFFFFF.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" alt="Adobe Illustrator"/>
-      <img src="https://img.shields.io/badge/adobe%20photoshop-%23FFFFFF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black" alt="Adobe Photoshop"/>
-      <img src="https://img.shields.io/badge/Canva-%23FFFFFF.svg?style=for-the-badge&logo=Canva&logoColor=black" alt="Canva"/>
-      <img src="https://img.shields.io/badge/figma-%23FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=black" alt="Figma"/>
-    </p>
-  </div>
+  <h3>Design Tools:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FFFFFF.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" alt="Adobe Illustrator"/>
+    <img src="https://img.shields.io/badge/adobe%20photoshop-%23FFFFFF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black" alt="Adobe Photoshop"/>
+    <img src="https://img.shields.io/badge/Canva-%23FFFFFF.svg?style=for-the-badge&logo=Canva&logoColor=black" alt="Canva"/>
+    <img src="https://img.shields.io/badge/figma-%23FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=black" alt="Figma"/>
+  </p>
 
-  <div style="border: 2px solid #fff; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #333;">
-    <h3>Version Control:</h3>
-    <p>
-      <img src="https://img.shields.io/badge/git-%23FFFFFF.svg?style=for-the-badge&logo=git&logoColor=black" alt="Git"/>
-      <img src="https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-    </p>
-  </div>
+  <h3>Version Control:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/git-%23FFFFFF.svg?style=for-the-badge&logo=git&logoColor=black" alt="Git"/>
+    <img src="https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+  </p>
 
-  <div style="border: 2px solid #fff; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #333;">
-    <h3>Deployment/Hosting:</h3>
-    <p>
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-      <img src="https://img.shields.io/badge/Streamlit-%23FFFFFF.svg?style=for-the-badge&logo=Streamlit&logoColor=black" alt="Streamlit"/>
-    </p>
-  </div>
+  <h3>Deployment/Hosting:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+    <img src="https://img.shields.io/badge/Streamlit-%23FFFFFF.svg?style=for-the-badge&logo=Streamlit&logoColor=black" alt="Streamlit"/>
+  </p>
 
-  <div style="border: 2px solid #fff; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #333;">
-    <h3>Other Tools:</h3>
-    <p>
-      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-    </p>
-  </div>
+  <h3>Other Tools:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  </p>
 
-  <div class="github-stats dark-theme">
   <h2>📊 GitHub Statistics</h2>
   
   <p align="center">
@@ -105,20 +86,19 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandsundaramoorthysa&theme=dark" alt="GitHub Streak"/>
   </p>
-</div>
 
   <h2>📚 Dive into My Blogs</h2>
   <p>Explore my articles and stay updated with the latest trends in tech, development, and AI on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank">Medium</a>.</p>
 
   <h2>🤝 Connect With Me:</h2>
   <p align="center">
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:sanand03072005@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://www.linkedin.com/in/anandsundaramoorthysa/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.instagram.com/ehspodcast_/">
+    <a href="https://www.instagram.com/anandsundaramoorthysa/">
       <img src="https://img.shields.io/badge/Instagram-DC2A46?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="https://medium.com/@anandsundaramoorthysa">
