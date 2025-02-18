@@ -1,15 +1,5 @@
 <h1 align="center">
-  <style>
-    @keyframes blink {
-      0% { opacity: 1; }
-      50% { opacity: 0; }
-      100% { opacity: 1; }
-    }
-    .blink {
-      animation: blink 1s infinite;
-    }
-  </style>
-  <span class="blink">Hi, I'm Anand! 👋</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Anand!+👋;Hi,+I'm+Anand!+👋;Hi,+I'm+Anand!+👋" alt="Typing SVG" />
 </h1>
 
 <p align="center" style="font-size: 24px;">
