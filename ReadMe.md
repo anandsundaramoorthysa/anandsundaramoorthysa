@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Anand!+👋;Hi,+I'm+Anand!+👋;Hi,+I'm+Anand!+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Anand!+👋;Even+you+hurt,+I+simply+smile." alt="Typing SVG" />
 </h1>
-
-<p align="center" style="font-size: 24px;">
-  "Even you hurt, I simply smile."
-</p>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Tech+%26+Finance+Enthusiast" alt="Typing SVG" />
@@ -76,7 +72,7 @@ For articles, check out my blogs on [Medium](https://medium.com/@anandsundaramoo
   <a href="https://medium.com/@anandsundaramoorthysa">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:sanand@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
