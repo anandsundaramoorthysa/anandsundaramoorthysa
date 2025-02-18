@@ -65,7 +65,7 @@
 
   <h3>Other Tools:</h3>
   <p>
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=black" alt="Notion"/>
   </p>
 
   <h2>📊 GitHub Statistics</h2>
