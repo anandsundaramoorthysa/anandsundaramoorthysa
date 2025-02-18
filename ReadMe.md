@@ -1,65 +1,89 @@
-## 👋 Hello, I'm Anand Sundaramoorthy!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Anand!+%F0%9F%91%8B;Front-End+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Technical+Writer+%F0%9F%93%9A;Passionate+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-💻 **Tech & Finance Enthusiast** | ✍️ **Blog Writer** | 🎓 **LCM'25**
+<p align="center">
+  <blockquote>
+    "Code is like humor. When you have to explain it, it’s bad."
+  </blockquote>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anandsundaramoorthysa">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=anandsundaramoorthysa&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Stats">
+  </a>
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## 🚀 About Me
+
+- 💻 Front-End Developer | Technical Writer  
+- 🔍 Exploring AI, Web Dev, and Open Source  
+- 🎯 Currently working on **React, Flutter & Firebase Projects**  
+- 📖 Writing tech blogs on **Medium**  
+- 🌍 Love building products that solve real-world problems  
+
+## 🛠️ Tech Stack
+
+### Front-End Development  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+### Mobile App Development  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+### Database & Backend  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+### Dev Tools  
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anandsundaramoorthysa&theme=darkhub&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandsundaramoorthysa&theme=blue-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandsundaramoorthysa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandsundaramoorthysa&layout=compact&langs_count=8&theme=midnight-purple"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandsundaramoorthysa&theme=midnight-purple" alt="GitHub Streak"/>
+</p>
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [The Evolution & Backlash of Developers Using ChatGPT](https://medium.com/@anandsundaramoorthysa/the-evolution-backlash-of-developers-using-chatgpt-abcdef123)
+- [Technology Behind Capturing Images & Videos](https://medium.com/@anandsundaramoorthysa/technology-behind-capturing-images-videos-abcdef123)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🌍 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%231E1E2E.svg?style=for-the-badge&logo=instagram&logoColor=%23E4405F)](https://instagram.com/anandsundaramoorthysa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E1E2E.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/anandsundaramoorthysa)
-[![Medium](https://img.shields.io/badge/Medium-%231E1E2E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anandsundaramoorthysa)
-
-## 📖 Read My Blogs:
-📝 Explore my articles on [Medium](https://medium.com/@anandsundaramoorthysa).
-
----
-
-## 🚀 Tech Stack:
-### **🌐 Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-%231E1E2E.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-%231E1E2E.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-%231E1E2E.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jQuery-%231E1E2E.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%231E1E2E.svg?style=for-the-badge&logo=bootstrap&logoColor=%238511FA)
-![Flask](https://img.shields.io/badge/Flask-%231E1E2E.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%231E1E2E.svg?style=for-the-badge&logo=apache-tomcat&logoColor=%23F8DC75)
-
-### **📱 App Development**
-![Flutter](https://img.shields.io/badge/Flutter-%231E1E2E.svg?style=for-the-badge&logo=flutter&logoColor=%2302569B)
-![Firebase](https://img.shields.io/badge/Firebase-%231E1E2E.svg?style=for-the-badge&logo=firebase&logoColor=%23FFA000)
-
-### **🧠 Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%231E1E2E.svg?style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00)
-
-### **🗄️ Databases**
-![MySQL](https://img.shields.io/badge/MySQL-%231E1E2E.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1)
-![MariaDB](https://img.shields.io/badge/MariaDB-%231E1E2E.svg?style=for-the-badge&logo=mariadb&logoColor=%23003545)
-
-### **📝 Programming Languages**
-![Java](https://img.shields.io/badge/Java-%231E1E2E.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
-![Python](https://img.shields.io/badge/Python-%231E1E2E.svg?style=for-the-badge&logo=python&logoColor=%233670A0)
-
-### **🎨 Design & Tools**
-![Illustrator](https://img.shields.io/badge/Illustrator-%231E1E2E.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23FF9A00)
-![Photoshop](https://img.shields.io/badge/Photoshop-%231E1E2E.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)
-![Canva](https://img.shields.io/badge/Canva-%231E1E2E.svg?style=for-the-badge&logo=canva&logoColor=%2300C4CC)
-![Figma](https://img.shields.io/badge/Figma-%231E1E2E.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
-
-### **🔧 Version Control & Deployment**
-![Git](https://img.shields.io/badge/Git-%231E1E2E.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
-![GitHub](https://img.shields.io/badge/GitHub-%231E1E2E.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%231E1E2E.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anandsundaramoorthysa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=anandsundaramoorthysa&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandsundaramoorthysa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anandsundaramoorthysa&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=anandsundaramoorthysa&icon=2&color=1)
-
----
+### 🤝 Connect With Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/anandsundaramoorthysa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/anandsundaramoorthysa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@anandsundaramoorthysa">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
