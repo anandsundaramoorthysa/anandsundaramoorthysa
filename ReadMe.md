@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size: 36px;">Hi, I'm Anand</span>
+  <h1 style="font-size: 36px;">Hi, I'm Anand</h1>
   <span style="font-size: 24px;">Even you hurt, I simply smile</span>
 </p>
 
