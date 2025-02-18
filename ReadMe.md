@@ -1,19 +1,16 @@
 <h1 align="center">
   Hi, I'm Anand! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Anand!+👋" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">
   "Even you hurt, I simply smile."
 </h3>
-</h1>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Tech+%26+Finance+Enthusiast" alt="Typing SVG" />
 </h2>
-
-<p align="center">
-  <a href="https://github.com/anandsundaramoorthysa">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=anandsundaramoorthysa&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Stats">
-  </a>
-</p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
