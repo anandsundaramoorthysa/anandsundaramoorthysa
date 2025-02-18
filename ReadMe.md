@@ -84,11 +84,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandsundaramoorthysa&layout=compact&langs_count=8&theme=dark&bg_color=000000&text_color=FFFFFF"/>
 </div>
 
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandsundaramoorthysa&theme=dark" alt="GitHub Streak"/>
-  </p>
-
   <h2>📚 Dive into My Blogs</h2>
   <p>Explore my articles and stay updated with the latest trends in tech, development, and AI on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank">Medium</a>.</p>
 
