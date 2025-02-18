@@ -1,12 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anand!+%F0%9F%91%8B;Front-End+Developer+💻;Tech+%26+Finance+Enthusiast+📊;Writer+✍️;Passionate+Learner+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anand!+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <blockquote>
-    "Even you hurt, I simply smile."
-  </blockquote>
-</p>
+<h3 align="center">
+  "Even you hurt, I simply smile."
+</h3>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Tech+%26+Finance+Enthusiast" alt="Typing SVG" />
+</h2>
 
 <p align="center">
   <a href="https://github.com/anandsundaramoorthysa">
@@ -64,11 +66,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandsundaramoorthysa&theme=midnight-purple" alt="GitHub Streak"/>
 </p>
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [The Evolution & Backlash of Developers Using ChatGPT](https://medium.com/@anandsundaramoorthysa/the-evolution-backlash-of-developers-using-chatgpt-abcdef123)
-- [Technology Behind Capturing Images & Videos](https://medium.com/@anandsundaramoorthysa/technology-behind-capturing-images-videos-abcdef123)
-<!-- BLOG-POST-LIST:END -->
+## 📖 Read My Blogs
+For articles, check out my blogs on [Medium](https://medium.com/@anandsundaramoorthysa).
 
 ---
 
