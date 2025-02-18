@@ -1,7 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=1E90FF&background=00000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Anand!+👋;Even+you+hurt,+I+simply+smile." alt="Typing SVG" />
-</h1>
-
+<p>Hi, I'm Anand</p>
+<p>Even you hurt, I simply smile</p>
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Tech+%26+Finance+Enthusiast" alt="Typing SVG" />
 </h2>
@@ -12,7 +10,6 @@
 
 - 💻 Front-End Developer | Technical Writer  
 - 🔍 Exploring AI, Web Dev, and Open Source  
-- 🎯 Currently working on **React, Flutter & Firebase Projects**  
 - 📖 Writing tech blogs on **Medium**  
 - 🌍 Love building products that solve real-world problems  
 
