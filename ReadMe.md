@@ -6,8 +6,8 @@
   <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
   <h1>🚀 About Me</h1>
-  <p>💻 Front-End Developer | Technical Writer</p>
-  <p>🔍 Exploring AI, Web Dev, and Open Source</p>
+  <p>💻 Front-End Developer</p>
+  <p>🔍 Exploring AI, Tech, Web Dev, Finance and Open Source</p>
   <p>📖 Writing tech blogs on <strong>Medium</strong></p>
   <p>🌍 Passionate about building products that solve real-world problems</p>
 
@@ -87,7 +87,7 @@
 </div>
 
   <h2>📚 Dive into My Blogs</h2>
-  <p>Explore my articles and stay updated with the latest trends in tech, development, and AI on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank">Medium</a>.</p>
+  <p>Explore my articles and stay updated with the latest trends in Tech, Development, AI and Finance on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank">Medium</a>.</p>
 
   <h2>🤝 Connect With Me:</h2>
   <p align="center">
