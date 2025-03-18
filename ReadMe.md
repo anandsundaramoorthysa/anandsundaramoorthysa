@@ -106,5 +106,5 @@
   </p>
  Watch my contribution graph being eaten by a Snake! 🐍
 
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/snake.svg)
 </div>
