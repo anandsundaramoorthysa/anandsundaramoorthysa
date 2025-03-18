@@ -104,4 +104,8 @@
       <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
     </a>
   </p>
+  <h2>Watch my contribution graph being eaten by a Snake! 🐍</h2>
+  <p align="center">
+  ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/master/snake.svg)
+  </p>
 </div>
