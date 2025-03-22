@@ -86,7 +86,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandsundaramoorthysa&layout=compact&langs_count=8&theme=dark&bg_color=000000&text_color=FFFFFF"/>
 </div>
   <h2>📚 Dive into My Blogs</h2>
-  <p>Explore my articles and stay updated with the latest trends in Tech, Development, AI and Finance on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank">Medium</a>.</p>
+  <p>Explore my articles and stay updated with the latest trends in Tech, Development, AI, and Finance on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank">Medium</a>.</p>
 
   <h2>🤝 Connect With Me:</h2>
   <p align="center">
@@ -108,5 +108,5 @@
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/snake.svg)
 
 <h2>🔝 Top Contributed Repo</h2>
-![GitHub Streak](https://streak-stats.demolab.com/?user=anandsundaramoorthysa&theme=dark)
+![](https://github-contributor-stats.vercel.app/api?username=MohamedNasirS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
