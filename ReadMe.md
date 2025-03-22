@@ -108,5 +108,5 @@
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/snake.svg)
 
 <h2>🔝 Top Contributed Repo</h2>
-![Top Contributed Repo](ttps://github-readme-stats.vercel.app/api?username=anandsundaramoorthysa&show_icons=true&theme=dark)
+![](ttps://github-readme-stats.vercel.app/api?username=anandsundaramoorthysa&show_icons=true&theme=dark)
 </div>
