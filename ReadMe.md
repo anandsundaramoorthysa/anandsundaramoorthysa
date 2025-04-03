@@ -10,7 +10,7 @@
   <h1><img src="https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/rocket.gif" alt="About Me" style="width: 40px; height: 40px; vertical-align: middle;"> About Me</h1>
 
   <p>💻 Developer</p>
-  <p>🔍 Exploring AI, Tech, Web Dev, Finance, and Open Source</p>
+  <p>🔍 Exploring AI, Tech, Web & App Dev, Finance, and Open Source</p>
   <p>📖 Writing tech blogs on <strong>Medium</strong></p>
   <p>🌍 Passionate about building products that solve real-world problems</p>
 
