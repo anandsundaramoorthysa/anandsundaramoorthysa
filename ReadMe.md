@@ -7,13 +7,13 @@
   <img align="center" alt="Passionate Learner Image" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </p>
 
-  <h1><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5mYWptZDZ3bjJ0bzJ5ZWk5czljY2ZpOXlxZmIzemV6Y3UxMGRicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmHizjn9igwwa19cIC/giphy.gif" alt="Waving Hand" style="width: 40px; height: 40px; vertical-align: middle;">  About Me</h1>
+  <h1><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5mYWptZDZ3bjJ0bzJ5ZWk5czljY2ZpOXlxZmIzemV6Y3UxMGRicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmHizjn9igwwa19cIC/giphy.gif" alt="Waving Hand" style="width: 40px; height: 40px; vertical-align: middle;"> About Me</h1>
   <p>💻 Developer</p>
   <p>🔍 Exploring AI, Tech, Web Dev, Finance, and Open Source</p>
   <p>📖 Writing tech blogs on <strong>Medium</strong></p>
   <p>🌍 Passionate about building products that solve real-world problems</p>
 
-  <h2>🛠️ Tech Stack</h2>
+  <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Waving Hand" style="width: 40px; height: 40px; vertical-align: middle;"> Tech Stack</h2>
 
  <h3>Front-End Development:</h3>
 <p>
