@@ -8,7 +8,7 @@
 </p>
 
   <h1>🚀 About Me</h1>
-  <p>💻 Front-End Developer</p>
+  <p>💻 Developer</p>
   <p>🔍 Exploring AI, Tech, Web Dev, Finance and Open Source</p>
   <p>📖 Writing tech blogs on <strong>Medium</strong></p>
   <p>🌍 Passionate about building products that solve real-world problems</p>
