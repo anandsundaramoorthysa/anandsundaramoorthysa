@@ -7,7 +7,11 @@
   <img align="center" alt="Passionate Learner Image" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </p>
 
-  <h1><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5mYWptZDZ3bjJ0bzJ5ZWk5czljY2ZpOXlxZmIzemV6Y3UxMGRicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmHizjn9igwwa19cIC/giphy.gif" alt="Waving Hand" style="width: 40px; height: 40px; vertical-align: middle;"> About Me</h1>
+  <div style="display: flex; align-items: center;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhobzdmY2h5bHpzZmdxNG1zcnA2d25samwyZ2I1eWNmbW12dHdibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RChv44yZ00Pu1MZ75p/giphy.gif" alt="About Me Icon" style="width: 50px; height: 50px; margin-right: 10px; filter: invert(100%);">
+  <h1>About Me</h1>
+</div>
+
   <p>💻 Developer</p>
   <p>🔍 Exploring AI, Tech, Web Dev, Finance, and Open Source</p>
   <p>📖 Writing tech blogs on <strong>Medium</strong></p>
