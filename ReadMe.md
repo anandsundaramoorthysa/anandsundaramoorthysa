@@ -14,7 +14,7 @@
   <p>📖 Writing tech blogs on <strong>Medium</strong></p>
   <p>🌍 Passionate about building products that solve real-world problems</p>
 
-  <h2><img src="https://user-images.githubusercontent.com/74038190/tech.gif" alt="Tech Stack" style="width: 40px; height: 40px; vertical-align: middle;"> Tech Stack</h2>
+  <h2><img src="https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/tech.gif" alt="Tech Stack" style="width: 40px; height: 40px; vertical-align: middle;"> Tech Stack</h2>
 
  <h3>Front-End Development:</h3>
 <p>
@@ -74,7 +74,7 @@
 </p>
 
 
-  <h2><img src="https://camo.githubusercontent.com/e0f09ec381a73c5acb9797a4f61d1d55c696c4ce7f8f1ad780e8bf7bf76bea5a/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3561633737646631656531373539346466333863306431372f313533333636303237373030342d335056434d535a555558455735545957334e474a2f646174612e676966" alt="GitHub Statistics" style="width: 40px; height: 40px; vertical-align: middle;"> GitHub Statistics</h2>
+  <h2><img src="https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/stat.gif" alt="GitHub Statistics" style="width: 40px; height: 40px; vertical-align: middle;"> GitHub Statistics</h2>
   
  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=anandsundaramoorthysa&theme=black&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
