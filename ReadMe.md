@@ -74,7 +74,7 @@
 </p>
 
 
-  <h2>📊 GitHub Statistics</h2>
+  <h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJsdTU5M3FuMnI1djlrZDY5eHBieGM5NGtiZXRqcGR6YXd3ejg3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hnj3fj9zQAVms8zMNg/giphy.gif" alt="Waving Hand" style="width: 40px; height: 40px; vertical-align: middle;"> GitHub Statistics</h2>
   
  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=anandsundaramoorthysa&theme=black&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
