@@ -2,8 +2,19 @@
   <p style="font-size: 36px; font-weight: bold;">Hi, I'm Anand! 👋</p>
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Developer+%F0%9F%8C%90;Tech+%26+Finance+Enthusiast+%F0%9F%92%BB%20%F0%9F%92%B0;Passionate+Learner+%F0%9F%9A%80;Writer+%F0%9F%93%9A" alt="Typing SVG" />
-  </p>
-  <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+</p>
+<p align="center">
+  <img align="center" alt="Developer Image" width="400" src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM2Njk0MDgsIm5iZiI6MTc0MzY2OTEwOCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAzVDA4MzE0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyMmJjOGVkMzI3YTI2NjkyODMxYjE0MjhmMzE1ZmQ4YTgzNDIyZTEwN2I2ZTEyZjc2NDE1M2ZmYjg5NzA3YWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sPHmAPqpRIO0bsZFwiIStnGWH6ZGx-VO2hcZ8OPBrnU">
+</p>
+<p align="center">
+  <img align="center" alt="Tech Finance Image" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+</p>
+<p align="center">
+  <img align="center" alt="Passionate Learner Image" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+</p>
+<p align="center">
+  <img align="center" alt="Writer Image" width="400" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif">
+</p>
 
   <h1>🚀 About Me</h1>
   <p>💻 Front-End Developer</p>
