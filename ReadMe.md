@@ -91,7 +91,7 @@
   <h2>📚 Dive into My Blogs</h2>
   <p>Explore my articles and stay updated with the latest trends in Tech, Development, AI, and Finance on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank">Medium</a>.</p>
 
-  <h2>🤝 Connect With Me:</h2>
+  <h2><img src="https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/connect.gif" alt="Waving Hand" style="width: 40px; height: 40px; vertical-align: middle;"> Connect With Me:</h2>
   <p align="center">
     <a href="mailto:sanand03072005@gmail.com">
       <img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -106,7 +106,7 @@
       <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
     </a>
   </p>
-<h2>🐍 Watch my contribution graph being eaten by a Snake</h2>
+<h2><img src="https://camo.githubusercontent.com/7e397834c7b9bec6a25c6200e7552f4556aa7dad895b351f8ba7af091b921bb8/68747470733a2f2f63646e2e6a6f79706978656c732e636f6d2f70726f64756374732f70726576696577732f4f364437424d47385232444d4d4e43344c4c5a482f333039335f486a67455372636b644755377a597854415965584b65476431376162547542532e676966" Watch my contribution graph being eaten by a Snake</h2>
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/snake.svg)
 
