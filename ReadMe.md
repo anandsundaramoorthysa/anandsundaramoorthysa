@@ -7,14 +7,14 @@
   <img align="center" alt="Passionate Learner Image" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </p>
 
-  <h1><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5mYWptZDZ3bjJ0bzJ5ZWk5czljY2ZpOXlxZmIzemV6Y3UxMGRicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmHizjn9igwwa19cIC/giphy.gif" alt="Waving Hand" style="width: 40px; height: 40px; vertical-align: middle;"> About Me</h1>
+  <h1><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5mYWptZDZ3bjJ0bzJ5ZWk5czljY2ZpOXlxZmIzemV6Y3UxMGRicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmHizjn9igwwa19cIC/giphy.gif" alt="About Me" style="width: 40px; height: 40px; vertical-align: middle;"> About Me</h1>
 
   <p>💻 Developer</p>
   <p>🔍 Exploring AI, Tech, Web Dev, Finance, and Open Source</p>
   <p>📖 Writing tech blogs on <strong>Medium</strong></p>
   <p>🌍 Passionate about building products that solve real-world problems</p>
 
-  <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Waving Hand" style="width: 40px; height: 40px; vertical-align: middle;"> Tech Stack</h2>
+  <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Tech Stack" style="width: 40px; height: 40px; vertical-align: middle;"> Tech Stack</h2>
 
  <h3>Front-End Development:</h3>
 <p>
@@ -74,7 +74,7 @@
 </p>
 
 
-  <h2><img src="https://camo.githubusercontent.com/e0f09ec381a73c5acb9797a4f61d1d55c696c4ce7f8f1ad780e8bf7bf76bea5a/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3561633737646631656531373539346466333863306431372f313533333636303237373030342d335056434d535a555558455735545957334e474a2f646174612e676966" alt="Waving Hand" style="width: 40px; height: 40px; vertical-align: middle;"> GitHub Statistics</h2>
+  <h2><img src="https://camo.githubusercontent.com/e0f09ec381a73c5acb9797a4f61d1d55c696c4ce7f8f1ad780e8bf7bf76bea5a/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3561633737646631656531373539346466333863306431372f313533333636303237373030342d335056434d535a555558455735545957334e474a2f646174612e676966" alt="GitHub Statistics" style="width: 40px; height: 40px; vertical-align: middle;"> GitHub Statistics</h2>
   
  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=anandsundaramoorthysa&theme=black&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="Trophy" />
@@ -91,7 +91,7 @@
   <h2>📚 Dive into My Blogs</h2>
   <p>Explore my articles and stay updated with the latest trends in Tech, Development, AI, and Finance on <a href="https://medium.com/@anandsundaramoorthysa" target="_blank">Medium</a>.</p>
 
-  <h2><img src="https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/connect.gif" alt="Waving Hand" style="width: 40px; height: 40px; vertical-align: middle;"> Connect With Me:</h2>
+  <h2><img src="https://raw.githubusercontent.com/LiftingOthers/LiftingOthers/main/connect.gif" alt="Connect With Me" style="width: 40px; height: 40px; vertical-align: middle;"> Connect With Me:</h2>
   <p align="center">
     <a href="mailto:sanand03072005@gmail.com">
       <img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -106,7 +106,7 @@
       <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
     </a>
   </p>
-<h2><img src="https://camo.githubusercontent.com/7e397834c7b9bec6a25c6200e7552f4556aa7dad895b351f8ba7af091b921bb8/68747470733a2f2f63646e2e6a6f79706978656c732e636f6d2f70726f64756374732f70726576696577732f4f364437424d47385232444d4d4e43344c4c5a482f333039335f486a67455372636b644755377a597854415965584b65476431376162547542532e676966" Watch my contribution graph being eaten by a Snake</h2>
+<h2><img src="https://camo.githubusercontent.com/7e397834c7b9bec6a25c6200e7552f4556aa7dad895b351f8ba7af091b921bb8/68747470733a2f2f63646e2e6a6f79706978656c732e636f6d2f70726f64756374732f70726576696577732f4f364437424d47385232444d4d4e43344c4c5a482f333039335f486a67455372636b644755377a597854415965584b65476431376162547542532e676966" alt="Snake" style="width: 40px; height: 40px; vertical-align: middle;"> Watch my contribution graph being eaten by a Snake</h2>
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/snake.svg)
 
