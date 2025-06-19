@@ -16,7 +16,7 @@
   </p>
 
   <h2><img src="https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/projects.gif" alt="Projects" style="width: 40px; height: 40px; vertical-align: middle;"> Notable Projects</h2>
-    <strong>📘 TamilKavi:</strong> A Python Package & Dataset. It's a command-line tool to explore Tamil poetry by author, book, and title. Also released as a dataset on Hugging Face.
+    <strong>📘 TamilKavi:</strong> A Python Package & Dataset. It's a command-line tool to explore Tamil poetry by author, book, and title. Also released as a dataset on Hugging Face.<br>
     <strong>🏫 Hostel Attendance App (Lohos)</strong>: A Flutter-Firebase-based digital attendance system tailored for my college hostel.
 
 
