@@ -6,10 +6,12 @@
 <p align="center">
   <img align="center" alt="Passionate Learner Image" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </p>
+
+  <h2><img src="https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/star.gif" alt="Achievements" style="width: 40px; height: 40px; vertical-align: middle;"> Achievements</h2>
   <ul align="left">
     <li>🎓 Completed BSc Computer Science (May 2025) at Loyola College of Arts & Science, Mettala</li>
     <li>📚 Currently pursuing MSc Data Science at Loyola College, Chennai</li>
-    <li>✍️ 15+ blog posts published on Medium around Tech, AI, Finance & Learning</li>
+    <li>✍️ 15 blog posts published on Medium around Tech, AI, Finance & Learning</li>
   </ul>
 
   <h2><img src="https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/light.gif" alt="Interests" style="width: 40px; height: 40px; vertical-align: middle;"> Interests</h2>
