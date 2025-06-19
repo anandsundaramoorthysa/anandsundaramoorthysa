@@ -7,12 +7,27 @@
   <img align="center" alt="Passionate Learner Image" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </p>
 
-  <h1><img src="https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/rocket.gif" alt="About Me" style="width: 40px; height: 40px; vertical-align: middle;"> About Me</h1>
+    <h2><img src="https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/star.gif" alt="Achievements" style="width: 40px; height: 40px; vertical-align: middle;"> Achievements</h2>
+  <ul align="left">
+    <li>🎓 Completed BSc Computer Science (May 2025) at Loyola College of Arts & Science, Mettala</li>
+    <li>📚 Currently pursuing MSc Data Science at Loyola College, Chennai</li>
+    <li>✍️ 15+ blog posts published on Medium around Tech, AI, Finance & Learning</li>
+  </ul>
 
-  <p>💻 Developer</p>
-  <p>🔍 Exploring AI, Tech, Web & App Dev, Finance, and Open Source</p>
-  <p>📖 Writing tech blogs on <strong>Medium</strong></p>
-  <p>🌍 Passionate about building products that solve real-world problems</p>
+  <h2><img src="https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/light.gif" alt="Interests" style="width: 40px; height: 40px; vertical-align: middle;"> Interests</h2>
+  <p>
+    🚀 Exploring Generative AI, Web & App Development<br>
+    📊 Passionate about Tech, Finance, Open Source<br>
+    🧑‍💻 Building tools that empower creators, learners & developers<br>
+    ✍️ Writing and simplifying tech on Medium and LinkedIn
+  </p>
+
+  <h2><img src="https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/projects.gif" alt="Projects" style="width: 40px; height: 40px; vertical-align: middle;"> Notable Projects</h2>
+  <ul align="left">
+    <li><strong>📘 TamilKavi CLI Tool</strong>: A command-line tool to explore Tamil poetry by author, book, and title. Also released as a dataset on Hugging Face.</li>
+    <li><strong>🏫 Hostel Attendance App (Lohos)</strong>: A Flutter-Firebase-based digital attendance system tailored for college hostel.</li>
+  </ul>
+
 
   <h2><img src="https://raw.githubusercontent.com/anandsundaramoorthysa/anandsundaramoorthysa/main/tech.gif" alt="Tech Stack" style="width: 40px; height: 40px; vertical-align: middle;"> Tech Stack</h2>
 
